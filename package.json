@@ -16,8 +16,8 @@
 	"dependencies" : {
 		"uglify-js" : "1.x.x",
 		"less"      : "1.x.x",
-		"jake"      : "0.x.x",
-		"minimatch" : "0.x.x"
+		"jake"      : "8.0.14",
+		"minimatch" : "3.0.2"
 	}
 }
 
